@@ -9,16 +9,6 @@ A deep learning application that predicts customer churn probability using neura
 - **Data Preprocessing**: Built-in feature scaling and encoding
 - **Probability Display**: Clear churn likelihood percentage
 
-## Project Structure 📂
-.
-├── app.py                         # Main application interface
-├── churn_model.h5                 # Trained neural network model
-├── index.ipynb                    # Model training notebook
-├── label_encoder_gender.pkl       # Gender encoding
-├── one_hot_encoder_geography.pkl  # Geography encoding
-├── scalar.pkl                     # Feature scaler
-└── requirement.txt                # Dependency list
-
 ## Installation 🛠️
 
 ### Prerequisites :-
